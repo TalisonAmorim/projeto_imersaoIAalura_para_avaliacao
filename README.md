@@ -12,4 +12,15 @@ Esse MVP desenvolvido  com o googleColab na linguagem Python, permite que você 
 4. Após selecionar o arquivo, você pode iniciar a conversa com Gemini.
 5. Você receberá respostas contextualizadas com base no conteúdo do arquivo PDF e nas perguntas que você fizer.
 
+### inserir arquivo pdf no programa
+![Captura de tela](imagens/Captura-de-tela-2.png)
+1. Ícone de pasta: Clique no ícone da pasta no menu lateral esquerdo para abrir o explorador de arquivos.
+2. Ícone de upload: Clique no ícone de upload (seta para cima) na parte superior do explorador de arquivos.
+3. Selecionar arquivo: Escolha o arquivo desejado do seu computador e clique em "Abrir". O arquivo será carregado para o armazenamento da sessão.
+4. Clique com o botão direito: No explorador de arquivos, clique com o botão direito do mouse sobre o nome do arquivo que você acabou de enviar.
+5. Copiar caminho: No menu de contexto que aparece, selecione a opção "Copiar caminho". O caminho completo do arquivo será copiado para a área de transferência.
+6. Cole o caminho do ficheiro na aplicação quando solicitado
+
+### EXTRA
+Também foi adicionado o arquivo .py para que possa da mesma forma ser rodado na maquina local do Usuário
 
