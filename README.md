@@ -5,6 +5,9 @@ Este projeto é resultado da participação na imersão em Inteligência Artific
 
 Esse MVP desenvolvido  com o googleColab na linguagem Python, permite que você converta o conteúdo de um arquivo PDF em uma conversa interativa com Gemini, a inteligência artificial do Google. Com ele, você pode explorar o conteúdo do arquivo PDF selecionado através de uma interface simples e manter uma conversa educativa e informativa.
 
+# Que problemas o sistema se proponhe a resolver?
+"O objetivo da 'Conversor de PDF para Conversa com Gemini' é resolver problemas relacionados à falta de informações precisas para a inteligência artificial Gemini. Ao explorar os arquivos selecionados pelos usuários, esta ferramenta proporciona uma maneira simples de inserir dados para análise pela Gemini, mitigando preocupações como a falta de informações relevantes para aprimorar o desempenho da IA."
+
 # Uso
 1. Execute o script em seu ambiente Python preferido, de preferência no Google Colab.
 2. Ao inciar script insira sua chave de API no campo solicitado para estabelecer a conexão com o Google Gemini e desfrutar de todas as funcionalidades oferecidas pelo programa
