@@ -1,2 +1,2 @@
-# Resuma
+# Resumo
 Este projeto é resultado da participação na imersão em Inteligência Artificial do Alura, em parceria com o Google. Desenvolvemos uma ferramenta que permite aos usuários explorar o conteúdo de arquivos PDF através de uma conversa interativa com a inteligência artificial Gemini. Combinando aprendizado prático e tecnologia de ponta, oferecemos uma experiência educativa e inovadora na análise de documentos digitais.
